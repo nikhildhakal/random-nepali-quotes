@@ -1,0 +1,17 @@
+{
+    "name": "nikhildhakal/random-nepali-quotes",
+    "description": "A random quote generator in Nepali.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nikhildhakal\\RandomNepaliQuotes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikhil Dhakal",
+            "email": "nickarsenal007@gmail.com"
+        }
+    ],
+    "require": {}
+}
